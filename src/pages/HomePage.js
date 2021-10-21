@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
 import CountryCard from '../components/CountryCard';
-import { getCovidInfoFromServer } from '../redux/covid19/covid19';
+import { getCovidInfoFromServer } from '../redux/covid19/configureStore';
 import Globe from '../assets/images/globe.gif';
 
 const HomePage = () => {

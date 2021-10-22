@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { Route, Switch } from 'react-router-dom';
-import { getCovidInfoFromServer } from '../redux/covid19/configureStore';
+import { getCovidInfoFromServer } from '../redux/covid19/covid19';
 
 import HomePage from '../pages/HomePage';
 import CountryPage from '../pages/CountryPage';

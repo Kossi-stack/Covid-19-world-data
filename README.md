@@ -17,12 +17,9 @@ view App [here](https://github.com/Kossi-stack/Covid-19-world-data/)
 [View App](https://www.loom.com/share/bbaa49978ddb497ea10ecdf3641038ab)
 
 # App Screenshot (Desktop)
-
-![print]()
+![print](src/assets/images/desktop.JPG)
 # App Screenshot (mobile)
-![print]()
-# App Screenshot (Tests Results)
-![print]()
+![print](src/assets/images/Covid19.JPG)
 
 ## Getting Started
 

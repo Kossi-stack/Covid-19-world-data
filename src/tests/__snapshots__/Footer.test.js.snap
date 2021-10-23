@@ -7,7 +7,7 @@ exports[`Navbar renders the UI as expected 1`] = `
   <p
     className="footer-text"
   >
-    Created with 💖 by Henry Kc at Microverse Inc., US.
+    Created by Kossi-Stack as React Capstone.
   </p>
 </footer>
 `;

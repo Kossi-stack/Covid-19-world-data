@@ -4,7 +4,7 @@
 
 The application shows information about the coronavirus situations in the world. It is built around an API to fetch the needed data. It can show information on the country level as well as region and sub-region levels. You can actually find covid19 information using a date filter. This is a capstone project for my React/Redux course at Microverse Inc.
 
-# Biult with:
+# Built with:
 1. HTML
 2. CSS
 3. JavaScript
@@ -16,9 +16,9 @@ view App [here](https://github.com/Kossi-stack/Covid-19-world-data/)
 # App Video
 [View App](https://www.loom.com/share/bbaa49978ddb497ea10ecdf3641038ab)
 
-# App Screenshot (Desktop)
+# App Screenshot (Mobile)
 ![print](src/assets/images/desktop.JPG)
-# App Screenshot (mobile)
+# App Screenshot (Desktop)
 ![print](src/assets/images/Covid19.JPG)
 
 ## Getting Started
